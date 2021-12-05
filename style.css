@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(29, 35, 51);
+    color: white;
+  }
+h1{
+    margin: 4rem;
+}
+input{
+    width: 40%;
+    height: 2rem;
+    padding: 0 10px;
+    font-size: large;
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 3rem auto;
+    width: 15%;
+    height: 3rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+div {
+    border: 1px solid white;
+    text-align: center;
+    height: 100%;
+    /* font-size: rem; */
+  }
+  
+p {
+    padding: 2rem;
+    text-align: center;
+    font-size: x-large;
+    font-weight:bolder;
+
+  }
+  
